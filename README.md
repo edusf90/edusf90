@@ -1,6 +1,6 @@
 
-<h1 align="center">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Eduardo Santana</h1>  
-<h3 align="center">Futuro Desenvolvedor Web Full Stack</h3>  
+<h1 align="left">Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Eduardo Santana</h1>  
+<h3 align="left">Futuro Desenvolvedor Web Full Stack</h3>  
   
   
 - 🌱 Atualmente estou estudando **react, node.js, javascritpt, html, css, sass and mysql**  
