@@ -1,6 +1,6 @@
 ### Olá, Mundo obrigado por visitar o meu perfil no Github.com 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/desantanaeduardo//)](https://www.linkedin.com/in/desantanaeduardo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/desantanaeduardo//)](https://www.linkedin.com/in/desantanaeduardo/) 
 
 
 <!--
