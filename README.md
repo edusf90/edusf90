@@ -7,7 +7,7 @@
   
 
   
-- 📫 Caso queira me mandar um email **desantana.eduardo@hotmail.com**  
+- 📫 Caso queira me mandar um email **edusf0@hotmail.com**  
   
 <h3 align="left">Me encontre no:</h3>  
 <p align="left">  
