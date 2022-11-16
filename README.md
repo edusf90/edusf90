@@ -1,6 +1,6 @@
 
 <h1 align="left">Oi, eu sou Eduardo Santana</h1>  
-<h3 align="left">Futuro Desenvolvedor Web Full Stack</h3>  
+<h3 align="left">Desenvolvedor Web Full Stack</h3>  
   
   
 - 🌱 Atualmente estou estudando **react, node.js, javascritpt, html, css, sass and mysql**  
